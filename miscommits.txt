@@ -1,0 +1,11 @@
+commit 8b19247f5bab0e75ff5a37b3b953c0d99ca817f8
+Author: gabosk20 <15171151@itculiacan.edu.mx>
+Date:   Thu Sep 12 12:20:37 2019 -0600
+
+    Encabezado de mi paginaen index
+
+commit f2fb24199586fd9eb9163127ee8b4f711391a19d
+Author: gabosk20 <15171151@itculiacan.edu.mx>
+Date:   Wed Sep 11 12:52:12 2019 -0600
+
+    Archivos iniciales
